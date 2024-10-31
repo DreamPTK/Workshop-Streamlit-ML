@@ -5,6 +5,6 @@ App to classify the varieties of rabbits.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Workshop-Streamlit-ML.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://workshop-ml.streamlit.app/)
 
 
