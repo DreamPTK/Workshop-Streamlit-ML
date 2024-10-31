@@ -1,7 +1,7 @@
 # 🍑 This workshop use Streamlit to create Machine Leaning App
 
 
-App to classify the varieties of rabbits.
+App to classify the varieties of penguins.
 
 ## Demo App
 
